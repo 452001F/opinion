@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1060" role="img" aria-labelledby="title desc">
+  <title id="title">A slow Sunday reading nook</title>
+  <desc id="desc">A hand-drawn editorial illustration of an armchair beside a sunny window, with books, a leafy plant and a cup of tea.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f4eee0"/>
+      <stop offset="1" stop-color="#e8dfd0"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0.9" y2="1">
+      <stop stop-color="#d6e7dd"/>
+      <stop offset="1" stop-color="#adc8bd"/>
+    </linearGradient>
+    <linearGradient id="chair" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop stop-color="#bd755f"/>
+      <stop offset="1" stop-color="#9b594e"/>
+    </linearGradient>
+    <linearGradient id="rug" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d2c1a4"/>
+      <stop offset="1" stop-color="#b7a287"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="grain" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="8" r="1" fill="#725d4e" opacity=".08"/>
+      <circle cx="22" cy="20" r=".8" fill="#fff" opacity=".18"/>
+      <path d="M2 28h5M18 4h3" stroke="#725d4e" stroke-width=".7" opacity=".05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="1060" fill="url(#wall)"/>
+  <path d="M0 0h730v694H0z" fill="#eee6d7"/>
+  <path d="M68 77h568v560H68z" fill="#b7a995"/>
+  <path d="M91 97h521v514H91z" fill="url(#window)"/>
+  <path d="M91 97h521v514H91z" fill="#fff" opacity=".08"/>
+  <path d="M346 98v512M92 353h520" stroke="#efe9dd" stroke-width="25"/>
+  <path d="M105 112h226v220H105z" fill="#dce7db" opacity=".46"/>
+  <path d="M373 118h215v205H373z" fill="#dfe7d7" opacity=".42"/>
+  <path d="M111 374h216v218H111z" fill="#c6d8cf" opacity=".45"/>
+  <path d="M371 378h217v215H371z" fill="#d3ded2" opacity=".4"/>
+  <path d="M84 94h534" stroke="#faf6ed" stroke-width="16"/>
+  <path d="M83 625h542" stroke="#aa9a83" stroke-width="11"/>
+  <path d="M0 722h1200v338H0z" fill="#e7d8bd"/>
+  <path d="M0 813c197-87 375-96 575-51 212 48 397-51 625-17v315H0z" fill="#d8c8ad"/>
+  <ellipse cx="629" cy="933" rx="493" ry="84" fill="#827461" opacity=".19" filter="url(#soft-shadow)"/>
+
+  <g stroke="#526844" stroke-linecap="round">
+    <path d="M1030 721c-5-152-34-292-104-404M1025 678c62-133 109-232 142-294M1008 631c-87-91-150-157-225-196M1020 564c12-119 4-202-8-288M1053 666c72-63 124-100 193-130" fill="none" stroke-width="9"/>
+    <path d="M922 411c-43-15-68-47-64-90 41 0 74 35 64 90M884 441c-50 1-83-23-96-64 40-14 81 10 96 64M947 485c-47-10-74-38-76-79 43-2 76 29 76 79M1090 462c-6-43 12-76 50-96 18 38 0 79-50 96M1126 516c16-41 48-62 90-57-7 43-43 69-90 57M1057 409c-28-34-29-71-3-105 34 25 42 67 3 105M978 551c-44 2-75-19-93-58 39-17 80 4 93 58M1103 602c23-38 57-53 98-40-14 41-53 61-98 40M1001 369c-39-22-55-56-44-97 41 14 64 52 44 97" fill="#788b5c" stroke-width="3"/>
+  </g>
+  <path d="M955 714h156l-18 113c-29 25-99 28-130 0z" fill="#bd8a6c"/>
+  <path d="M951 717h164v20H951z" fill="#d0a285"/>
+  <path d="M969 832c43 25 89 25 130 0" fill="none" stroke="#a76f5c" stroke-width="5"/>
+
+  <path d="M126 1034h932l-75-75H206z" fill="url(#rug)"/>
+  <path d="M211 963h682l-28 32H238z" fill="#c2b092"/>
+  <path d="M260 960h580l-31-269c-11-96-93-165-188-165h-62c-101 0-177 72-190 169z" fill="#d7ad8f"/>
+  <path d="M299 685c20-93 76-147 170-147h64c89 0 155 57 172 150l37 272H263z" fill="url(#chair)"/>
+  <path d="M349 673c20-59 65-91 125-91h52c62 0 108 34 126 92l41 270H311z" fill="#c57d66"/>
+  <path d="M376 660c20-38 55-56 101-56h48c47 0 83 20 102 58" fill="none" stroke="#d6987e" stroke-width="8" opacity=".72"/>
+  <path d="M274 745c-63-24-110 3-123 60l-36 149c-10 42 17 76 57 76h104l53-251z" fill="#a95f53"/>
+  <path d="M815 744c57-27 108-3 125 53l43 151c12 41-12 79-54 82l-103 6-62-245z" fill="#a95f53"/>
+  <path d="m184 943-7 99M904 947l14 95" stroke="#815145" stroke-width="17" stroke-linecap="round"/>
+  <path d="M372 760c32-29 87-41 157-37 63 4 115 21 138 53l-33 179H346z" fill="#dcae8c"/>
+  <path d="M412 798c62-29 139-29 199 5M390 834c62-29 156-31 226 1M372 876c74-34 169-30 234 4" fill="none" stroke="#e9c6a7" stroke-width="7" opacity=".7"/>
+
+  <g transform="translate(126 809)">
+    <path d="M0 99h139v18H0z" fill="#63706a"/>
+    <path d="m10 72 128 8-3 18-128-8z" fill="#d08e5e"/>
+    <path d="m16 44 120 9-2 18-121-9z" fill="#55717a"/>
+    <path d="m20 18 112 8-3 18-110-8z" fill="#e8d7b9"/>
+    <path d="M0 117h145" stroke="#485d59" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(848 837)">
+    <ellipse cx="91" cy="130" rx="82" ry="14" fill="#766f63" opacity=".22"/>
+    <path d="M30 89c0-20 15-34 34-34h52c21 0 35 15 35 35v35H30z" fill="#f6f0e3" stroke="#d6c7ad" stroke-width="4"/>
+    <path d="M147 76c40-16 48 47 5 47" fill="none" stroke="#e7dbc7" stroke-width="12"/>
+    <path d="M44 83h93" stroke="#c88861" stroke-width="8"/>
+    <path d="M63 51c4-22 29-30 48-20" fill="none" stroke="#fffaf0" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+  </g>
+
+  <path d="M0 0h1200v1060H0z" fill="url(#grain)"/>
+  <path d="M0 0h1200v1060H0z" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="18"/>
+</svg>

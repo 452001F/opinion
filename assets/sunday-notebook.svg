@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title desc">
+  <title id="title">Notebook on a Sunday desk</title>
+  <desc id="desc">An original still-life illustration of a green notebook, a colorful desk planner, flowers and pencils in afternoon light.</desc>
+  <defs>
+    <linearGradient id="curtain" x2="1">
+      <stop stop-color="#641b31"/><stop offset=".5" stop-color="#8b243c"/><stop offset="1" stop-color="#54172e"/>
+    </linearGradient>
+    <linearGradient id="table" y2="1">
+      <stop stop-color="#f3d9ba"/><stop offset="1" stop-color="#e9be91"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="500" fill="url(#curtain)"/>
+  <path d="M48 0v338m77-338v328m83-328v339m87-339v326m89-326v334m87-334v328m75-328v337" stroke="#b24452" stroke-width="14" opacity=".4"/>
+  <rect y="338" width="640" height="162" fill="url(#table)"/>
+  <rect y="321" width="640" height="24" fill="#dcae7e"/>
+  <ellipse cx="332" cy="420" rx="229" ry="27" fill="#60323b" opacity=".18"/>
+  <g transform="translate(253 141) rotate(-4)">
+    <rect width="178" height="239" rx="5" fill="#f2d982"/>
+    <rect x="10" y="13" width="158" height="211" fill="#e9b85b"/>
+    <path d="M12 147c45-31 99-32 154 8v66H12z" fill="#ee7858"/>
+    <path d="M12 110c40 35 94 32 154 1v54c-48-28-103-28-154 0z" fill="#4d9d88"/>
+    <path d="M12 64c51 23 106 21 154-1v44c-54 29-105 28-154-2z" fill="#63b0b5"/>
+    <circle cx="59" cy="76" r="17" fill="#f1ce62"/><circle cx="124" cy="180" r="20" fill="#dd6149"/>
+    <path d="M29 38h73" stroke="#fff1c9" stroke-width="5"/>
+    <text x="22" y="30" font-family="serif" font-size="15" fill="#fff7df">Sunday notes</text>
+    <path d="M155 10v210" stroke="#fff1c9" stroke-width="3" opacity=".65"/>
+  </g>
+  <g transform="translate(122 182)">
+    <rect width="112" height="192" rx="5" fill="#7abf86"/>
+    <rect x="11" y="9" width="92" height="174" fill="#86ca8f"/>
+    <path d="M55 35v20m0 0c-19-15-31-1-19 9 8 6 15-1 19-9 5 12 17 15 23 7 7-10-6-21-23-7z" fill="none" stroke="#31765b" stroke-width="3"/>
+    <text x="24" y="102" font-family="serif" font-size="18" fill="#285f4c">notes</text>
+    <path d="M23 119h67m-67 13h55m-55 13h60" stroke="#c8e3ba" stroke-width="3"/>
+  </g>
+  <g transform="translate(70 145)">
+    <path d="M38 119V47m0 37c-21-22-35-7-25 6 8 10 20 5 25-6 8-23 30-23 34-8 4 16-16 21-34 8z" fill="none" stroke="#506d43" stroke-width="5"/>
+    <path d="M16 52c-2-21 15-38 35-34 19 5 26 22 17 42L49 88H26z" fill="#ed7949"/>
+    <path d="M45 24c0-17 13-29 26-23 14 6 18 22 7 39l-15 27H39z" fill="#f3bf4f"/>
+    <path d="M22 117h39l-4 48H27z" fill="#d76645"/>
+    <path d="M17 113h49v12H17z" fill="#ed8b60"/>
+  </g>
+  <g transform="translate(450 244)">
+    <rect width="61" height="113" rx="8" fill="#e9958a"/>
+    <path d="M9 11v91m12-91v91m12-91v91m12-91v91" stroke="#ffd7c8" stroke-width="3" stroke-dasharray="3 5"/>
+    <path d="M13 0h7v-20h-7zm29 0h7v-20h-7z" fill="#cf7269"/>
+    <path d="m25 10 13 8-15 15-13-8zm-9 22 14 9-14 14-14-9z" fill="#f9d9c5"/>
+    <path d="M23 5h15v6H23z" fill="#f8e1cf"/>
+  </g>
+  <g transform="translate(314 404) rotate(-9)">
+    <rect width="118" height="9" rx="4" fill="#d95843"/>
+    <path d="M118 0 136 4.5 118 9z" fill="#e9d4ad"/>
+    <path d="M0 0h14v9H0z" fill="#f3b950"/>
+  </g>
+  <g transform="translate(521 378) rotate(7)">
+    <rect width="13" height="103" rx="5" fill="#e7a83b"/>
+    <path d="M0 0h13v13H0z" fill="#d95b48"/>
+    <path d="M4 101h5l-2.5 9z" fill="#685a49"/>
+  </g>
+  <circle cx="554" cy="423" r="15" fill="#f1cf5e"/><circle cx="554" cy="423" r="8" fill="#fae6a1"/>
+  <path d="M93 500c52-15 94-12 130 0m288 0c39-17 79-14 129 0" fill="none" stroke="#d9a97d" stroke-width="4"/>
+</svg>

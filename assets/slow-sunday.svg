@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title desc">
+  <title id="title">A slow Sunday print</title>
+  <desc id="desc">A colorful abstract illustration of a hand-printed magazine cover with a sun, leaves and a quiet Sunday message.</desc>
+  <rect width="640" height="500" fill="#f3e8a9"/>
+  <path d="M0 392c90-71 148-26 214 16s141 37 204-9 141-61 222-6v107H0z" fill="#f0b8cc"/>
+  <path d="M496 0h144v184L560 145l-53 31 19-61-40-28 61-18z" fill="#69b5d0"/>
+  <path d="M0 0h131L98 54l35 34-69 3 12 61L0 123z" fill="#e5674c"/>
+  <g transform="translate(195 54) rotate(-2 123 190)">
+    <rect x="0" y="0" width="250" height="385" rx="3" fill="#d9cfa9" opacity=".45"/>
+    <rect x="7" y="7" width="250" height="385" rx="3" fill="#f4eee0" stroke="#d4c9b2" stroke-width="3"/>
+    <rect x="19" y="20" width="226" height="357" fill="#f2df9d"/>
+    <path d="M19 206c51-57 113-69 226-41v212H19z" fill="#e44d44"/>
+    <path d="M19 254c57 21 101 20 226-31v153H19z" fill="#577cc6"/>
+    <path d="M19 300c44 25 98 24 226-30v107H19z" fill="#ed7385"/>
+    <circle cx="190" cy="96" r="42" fill="#f2a85d"/>
+    <circle cx="190" cy="96" r="29" fill="#f5d775"/>
+    <path d="M42 139c32-40 74-51 111-34m-90 43c27-25 52-32 77-25" fill="none" stroke="#45836d" stroke-width="7" stroke-linecap="round"/>
+    <path d="M49 145c-18-28-39-23-37-4 2 15 22 16 37 4m5-7c11-31 33-35 38-19 4 15-15 25-38 19" fill="#67a979" stroke="#397b61" stroke-width="2"/>
+    <text x="38" y="53" font-family="sans-serif" font-size="13" font-weight="700" fill="#426769">ELSEWHERE JOURNAL</text>
+    <text x="37" y="88" font-family="serif" font-size="29" font-weight="700" fill="#263e50">slow</text>
+    <text x="37" y="118" font-family="serif" font-size="29" font-weight="700" fill="#263e50">sunday</text>
+    <path d="M39 351h126" stroke="#fff4cf" stroke-width="4"/>
+    <text x="39" y="371" font-family="sans-serif" font-size="10" fill="#fff4cf">A LITTLE SPACE TO BREATHE</text>
+  </g>
+  <g fill="#68ad7d">
+    <circle cx="99" cy="359" r="21"/><circle cx="139" cy="391" r="27"/><circle cx="505" cy="277" r="22"/><circle cx="541" cy="309" r="29"/>
+  </g>
+  <g fill="#f0d24e">
+    <circle cx="91" cy="342" r="7"/><circle cx="109" cy="348" r="7"/><circle cx="96" cy="366" r="7"/>
+    <circle cx="498" cy="260" r="7"/><circle cx="518" cy="269" r="7"/><circle cx="500" cy="284" r="7"/>
+  </g>
+  <path d="M34 422c28-24 45-20 63-3s34 15 48-8" fill="none" stroke="#47a18a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M511 438c28-24 45-20 63-3s34 15 48-8" fill="none" stroke="#426769" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#fff" opacity=".45">
+    <circle cx="161" cy="42" r="3"/><circle cx="462" cy="225" r="3"/><circle cx="580" cy="204" r="3"/><circle cx="161" cy="456" r="3"/>
+  </g>
+</svg>

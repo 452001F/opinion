@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title desc">
+  <title id="title">A bright little garden</title>
+  <desc id="desc">An illustrated green garden with gardening gloves, a fork, a trowel and yellow flowers.</desc>
+  <rect width="640" height="500" fill="#278766"/>
+  <path d="M0 390c135-40 215 24 339-9s199-30 301 11v108H0z" fill="#1c7157"/>
+  <g fill="#f4d94c">
+    <circle cx="83" cy="108" r="12"/><circle cx="83" cy="108" r="4" fill="#fff4bd"/>
+    <circle cx="185" cy="68" r="14"/><circle cx="185" cy="68" r="5" fill="#fff4bd"/>
+    <circle cx="503" cy="115" r="13"/><circle cx="503" cy="115" r="4" fill="#fff4bd"/>
+    <circle cx="549" cy="315" r="15"/><circle cx="549" cy="315" r="5" fill="#fff4bd"/>
+    <circle cx="110" cy="343" r="16"/><circle cx="110" cy="343" r="5" fill="#fff4bd"/>
+    <circle cx="290" cy="150" r="15"/><circle cx="290" cy="150" r="5" fill="#fff4bd"/>
+    <circle cx="428" cy="408" r="12"/><circle cx="428" cy="408" r="4" fill="#fff4bd"/>
+    <circle cx="227" cy="420" r="11"/><circle cx="227" cy="420" r="4" fill="#fff4bd"/>
+    <circle cx="575" cy="70" r="10"/><circle cx="575" cy="70" r="3" fill="#fff4bd"/>
+  </g>
+  <g fill="#f4d94c">
+    <circle cx="70" cy="95" r="8"/><circle cx="96" cy="96" r="8"/><circle cx="72" cy="121" r="8"/><circle cx="96" cy="120" r="8"/>
+    <circle cx="173" cy="53" r="9"/><circle cx="198" cy="52" r="9"/><circle cx="172" cy="80" r="9"/><circle cx="199" cy="80" r="9"/>
+    <circle cx="490" cy="101" r="8"/><circle cx="516" cy="102" r="8"/><circle cx="490" cy="128" r="8"/><circle cx="516" cy="128" r="8"/>
+  </g>
+  <g transform="translate(105 192) rotate(-18)">
+    <rect x="36" y="0" width="20" height="170" rx="9" fill="#d8b782"/>
+    <path d="M20 155h52l-5 65H25z" fill="#a99169"/>
+    <path d="M31 5h30" stroke="#f3e2bd" stroke-width="6"/>
+    <path d="M20 207c16 8 36 8 53 0" fill="none" stroke="#8d795b" stroke-width="5"/>
+  </g>
+  <g transform="translate(228 86) rotate(8)">
+    <path d="M23 44h29l8 68 21 131c4 22-29 32-37 11L31 172 13 253c-5 22-40 15-36-8l24-133z" fill="#d4c5a1"/>
+    <path d="M25 40h28v20H25z" fill="#65715f"/>
+    <path d="m27 112 8 46m16-45 9 46" stroke="#f4e8ca" stroke-width="6"/>
+  </g>
+  <g transform="translate(365 109) rotate(-10)">
+    <path d="M27 95c-5-27 4-46 26-52 22-5 39 9 43 34l17 111c4 24-5 46-26 51-22 6-39-8-44-31z" fill="#303b39"/>
+    <path d="M30 103c-14-20-30-15-35 1l-16 62c-6 24 23 34 34 13l16-31m61-51c17-21 34-14 37 5l9 61c3 23-27 30-36 8l-13-30m-49-47c-10-19-31-16-34 5l-7 63c-3 22 26 28 34 7l9-24m52-50c10-18 31-14 33 7l5 57c2 21-25 26-33 6l-9-24" fill="#303b39" stroke="#202b29" stroke-width="5" stroke-linecap="round"/>
+    <path d="M18 218c18 11 39 8 54-2" fill="none" stroke="#758477" stroke-width="5" opacity=".65"/>
+  </g>
+  <g transform="translate(443 71) rotate(13)">
+    <path d="M0 48h138v26H0z" rx="13" fill="#d0ae78"/>
+    <path d="M0 48c-24 0-38 12-38 13s14 13 38 13" fill="#b28f60"/>
+    <path d="M112 48c29 0 37 13 37 13s-8 13-37 13" fill="#d0ae78"/>
+    <text x="53" y="67" font-family="sans-serif" font-size="13" fill="#735d3d">garden</text>
+  </g>
+  <g fill="#fff" opacity=".12">
+    <circle cx="30" cy="260" r="2"/><circle cx="160" cy="30" r="2"/><circle cx="329" cy="60" r="2"/><circle cx="601" cy="215" r="2"/>
+    <circle cx="272" cy="309" r="2"/><circle cx="450" cy="274" r="2"/><circle cx="515" cy="455" r="2"/><circle cx="78" cy="457" r="2"/>
+  </g>
+</svg>
