@@ -1,3 +1,21 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url("Roboto-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url("Roboto-Italic-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
 :root {
   color-scheme: light;
   --ink: #193c49;
@@ -12,7 +30,6 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  pointer-events: none !important;
 }
 
 * {
@@ -317,6 +334,7 @@ a {
 .eyebrow {
   margin: 0 0 10px;
   color: var(--coral);
+  font-family: "Cutive", serif;
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -348,16 +366,18 @@ h1 {
 
 .byline p {
   margin: 0;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.65;
 }
 
 .byline-name {
   font-weight: 700;
+  font-family: "Cutive", serif;
 }
 
 .byline-date {
   color: var(--muted);
+  font-family: "Cutive", serif;
 }
 
 .hero-art {
@@ -390,13 +410,17 @@ h1 {
   max-width: 680px;
   margin: 36px auto 0;
   color: #354f54;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   line-height: 1.9;
 }
 
 .story-body > p {
   margin: 0 0 26px;
+}
+
+.story-body em {
+  font-style: italic;
 }
 
 .story-body .dropcap::first-letter {
@@ -877,7 +901,7 @@ input:focus-visible {
 
   .eyebrow {
     margin-bottom: 13px;
-    font-size: 10px;
+    font-size: 14px;
   }
 
   h1 {
