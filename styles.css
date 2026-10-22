@@ -4,7 +4,7 @@
   font-weight: 100 900;
   font-stretch: 75% 100%;
   font-display: swap;
-  src: url("Roboto-VariableFont_wdth,wght.ttf") format("truetype");
+  src: url("./Roboto-VariableFont_wdth%2Cwght.ttf") format("truetype");
 }
 
 @font-face {
@@ -13,7 +13,7 @@
   font-weight: 100 900;
   font-stretch: 75% 100%;
   font-display: swap;
-  src: url("Roboto-Italic-VariableFont_wdth,wght.ttf") format("truetype");
+  src: url("./Roboto-Italic-VariableFont_wdth%2Cwght.ttf") format("truetype");
 }
 
 :root {
